@@ -4,10 +4,10 @@
  */
 
 
-/** The main Method */
+//The main Method
 fn main() {
 
-    /**Print statement. */
+    //Print statement. 
     println!("Hello World!")
 
 }
